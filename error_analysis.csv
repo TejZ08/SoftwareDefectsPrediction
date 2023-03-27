@@ -1,0 +1,4 @@
+Method,Accuracy,F1 Score,TN,FP,FN,TP
+Naive Bayes,82.46,0.373,326,38,36,22
+Logistic Regression,86.26,0.033,363,1,57,1
+Neural Network,88.15,0.405,355,9,41,17
